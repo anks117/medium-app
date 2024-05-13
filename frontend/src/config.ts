@@ -1,0 +1,1 @@
+export const BACKEND_URL="https://week-13.study-ankit117.workers.dev"
