@@ -1,4 +1,4 @@
-import React from 'react'
+
 import { Avatar } from './BlogCards'
 import { Link } from 'react-router-dom'
 
