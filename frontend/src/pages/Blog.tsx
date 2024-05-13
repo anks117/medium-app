@@ -19,7 +19,7 @@ const Blog = () => {
       <AppBar />
       {loading? <SkeletonLoadingFb />:
       <div>
-        <FullBlog blog={blog}/>
+        {blog && <FullBlog blog={blog}/>}
       </div>}
   </div>
     
